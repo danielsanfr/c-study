@@ -1,0 +1,6 @@
+Histograma 01
+
+Neste exercício deve ser gerado um histograma representado
+por asteriscos.
+Na entrada  serão informados 10 valores, correspondentes
+ao número de ocorrências em cada intervalo do histograma.

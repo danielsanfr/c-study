@@ -1,0 +1,20 @@
+Histograma 02
+
+Neste exercício deve ser gerado um histograma representado
+por asteriscos.
+Na entrada será um número 'n', correspondente à quantidade de
+valores com uma casa decimal entre 0.0 e 10.0 que seguirão.
+Deverá ser computada a frequência de valores em 10 intervalos
+regulares. Todos os intervalos, com excessão do primeiro, serão
+abertos no limite inferior e fechados no limite superior.
+O primeiro intervalo, [0.0, 1.0], será fechado nos dois limites.
+A saída um histograma onde o número de ocorrências em cada
+intervalo será usado para calcular o número de asteriscos a
+ser usado no desenho do mesmo, sendo o número máximo de 20
+asteriscos.
+O histograma deverá ser delimitado por eixos formados pelos
+caracteres: '^', '|', '+', '-' e '>'. Deverão ser numerados os
+intervalos 1, 5 e 10, no eixo vertical, bem como o número de
+ocorrências correspondente a 5, 10, 15 e 20 asteriscos,
+posicões nas quais o eixo horizontal deverá ter "ticks" feitos
+com o caracter '+'.
